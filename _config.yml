@@ -25,6 +25,9 @@ twitter_username: linc_sanders
 github_username:  lincsanders
 google_analytics: 
 
+host: 0.0.0.0
+port: 3100
+
 sass:
   load_paths:
     - assets

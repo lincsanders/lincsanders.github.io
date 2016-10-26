@@ -1,0 +1,30 @@
+@import "minima";
+
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+hr {
+	margin-bottom: 50px;
+}
+
+.entire-wrapper {
+	width: 100%;
+	font-size: 45px;
+	text-align: center;
+
+	@include media-query($on-palm) {
+		font-size: 20px;
+	}
+}
+
+.home-banner {
+	background-image: url('/assets/welcome_banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+	padding-top: 50px;
+	color: #fff;
+	text-shadow: 0px 0px 5px #d4d4d4;
+}
