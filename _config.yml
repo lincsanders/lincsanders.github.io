@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lincsanders.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: linc_sanders
 github_username:  lincsanders
-google_analytics: 
+google_analytics: UA-86364636-1
 
 host: 0.0.0.0
 port: 3100
