@@ -24,6 +24,8 @@ url: "https://lincsanders.github.io" # the base hostname & protocol for your sit
 twitter_username: linc_sanders
 github_username:  lincsanders
 google_analytics: UA-86364636-1
+disqus:
+  shortname: lincsanders-github-io
 
 host: 0.0.0.0
 port: 3100
