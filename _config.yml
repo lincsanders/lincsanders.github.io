@@ -36,6 +36,7 @@ sass:
     - _sass
 
 # Build settings
+highlighter: true
 markdown: kramdown
 theme: minima
 gems:

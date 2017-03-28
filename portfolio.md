@@ -1,12 +1,12 @@
 ---
 title: Portfolio
-layout: page
+layout: home
 permalink: "/portfolio/"
 ---
 
 # [Paperton](https://www.paperton.com/){:target="_blank"}
 [![Paperton](/assets/paperton_header.png)](https://www.paperton.com/){:target="_blank"}
-
+ 
 Digital Magazine Publishing
 
 Web-based magazine magazine publishing and subscription management. Magazines distributed via customizeable apps on iOS and Android
