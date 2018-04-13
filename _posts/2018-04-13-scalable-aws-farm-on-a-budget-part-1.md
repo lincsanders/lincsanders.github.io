@@ -19,9 +19,9 @@ Lets start with some parameters I arbitrarily imposed upon myself with which we'
 
 - Instances can't be more powerful than t2.nano or t2.micro
 - A single 8gb gp2 HDD per instance
-- All microservices should auto-scale based on load. 
+- All microservices should auto-scale based on load.
 
-I didn't see the need to re-invent the wheel when it came to auto-scaling and uptime monitoring, so I went with an established service. I'd strongly advise the same e.g. https://www.scalr.com/ or https://docs.aws.amazon.com/opsworks/latest/userguide/welcome.html
+I didn't see the need to re-invent the wheel when it came to auto-scaling and uptime monitoring, so I went with an established service. I'd strongly advise the same e.g. [Scalr](https://www.scalr.com/){:target='blank'} or [AWS OpsWorks](https://docs.aws.amazon.com/opsworks/latest/userguide/welcome.html){:target='blank'}
 
 Each microservice has specific needs and tweaks to it's own base image, but there's also a lot of shared optimizations I made to get the most out of minimal CPU power and 0.5gb of RAM. 
 
