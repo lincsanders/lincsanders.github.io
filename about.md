@@ -8,8 +8,6 @@ My name is Lincoln Sanderson
 
 Born in Australia, living in Sweden since 2010
 
-I've been programming as a hobby my entire life and professionally since 2008
+I've been programming as a hobby my entire life, professionally since 2008
 
-Filemaker for 3 years, PHP for 8 years and Ruby for 6 years
-
-<div class="progress" amount="30"></div>
+Filemaker between 2008-2010 and again in 2017, PHP since 2008 and Ruby since 2012
